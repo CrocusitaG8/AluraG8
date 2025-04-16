@@ -1,2 +1,1 @@
-# AluraG8
-cursos
+Clases y ejercicios dentro de la formación de Alura
